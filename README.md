@@ -1,2 +1,2 @@
-# Fluidit-
+# fluidité
 a rhythm platformer game
