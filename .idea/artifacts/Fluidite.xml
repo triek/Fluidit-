@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fluidite">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fluidite</output-path>
+    <root id="archive" name="Fluidite.jar" />
+  </artifact>
+</component>
